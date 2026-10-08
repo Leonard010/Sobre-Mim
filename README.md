@@ -73,7 +73,7 @@ Meu objetivo a longo prazo é me tornar um **Desenvolvedor Full Stack**, com con
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Leonard010">
-    <img alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
