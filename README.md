@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou Leonardo Sotilo!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — 4º semestre
+
 💻 Em busca de uma oportunidade de estágio em desenvolvimento de software
+
 🚀 Futuro Desenvolvedor Full Stack
 
 ---
